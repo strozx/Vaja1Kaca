@@ -75,7 +75,14 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="glava.png" />
     <Content Include="Global.asax" />
+    <Content Include="index.html" />
+    <Content Include="jquery-3.3.1.min.js" />
+    <Content Include="mouse.png" />
+    <Content Include="rep.png" />
+    <Content Include="vaja1.css" />
+    <Content Include="vaja1.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
